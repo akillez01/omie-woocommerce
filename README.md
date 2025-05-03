@@ -2,7 +2,10 @@
 
 ![Banner do Plugin](https://seusite.com/imagens/banner-omie-woocommerce.png)
 
-![Descrição da imagem](/home/achilles/Documentos/Proposta/nova/project-bolt-sb1-bytx4l2k/project/images/img-1.png img-2.png img-3.png img-4.png)
+![Tela 1](project/images/img-1.png)
+![Tela 2](project/images/img-2.png)
+![Tela 3](project/images/img-3.png)
+![Tela 4](project/images/img-4.png)
 
 Conecte seu WooCommerce ao ERP Omie de forma simples, segura e eficiente.
 
