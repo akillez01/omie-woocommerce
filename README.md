@@ -196,7 +196,7 @@ Este projeto é licenciado sob a GPLv2.
 
 🐞 Reportar Problema
 
-📱 WhatsApp: +55 11 98765-4321
+📱 WhatsApp: +55 11 #########
 
 📘 Documentação: docs.seusite.com
 
@@ -209,13 +209,11 @@ Versão	Data	Notas
 1.2.0	2025-07-20	Dashboard avançado
 2.0.0	2025-09-10	Refatoração completa
 
-📌 Nota Legal: Este plugin não é afiliado ou endossado pela Omie ou WooCommerce/Automattic. Desenvolvido com ❤️ por [Sua Empresa].
+📌 Nota Legal: Este plugin não é afiliado ou endossado pela Omie ou WooCommerce/Automattic. Desenvolvido com ❤️ por Achilles.
 
 yaml
 Copiar
 Editar
 
 ---
-
-Deseja que eu gere também um modelo visual com banners e screenshots para esse README?
 ```
